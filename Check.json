@@ -1,0 +1,17 @@
+{
+  "id": "check",
+  "name": "Checkered Decks",
+  "display_name": "Checkered Decks",
+  "badge_colour": "6C3BAA",
+  "author": [
+    "Jimmy B"
+  ],
+  "description": "every 2 suit combo as a checkered deck",
+  "prefix": "check",
+  "main_file": "Check.lua",
+  "priority": 1,
+  "version": "1.0.0",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0404a)"
+  ]
+}
